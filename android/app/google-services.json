@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355173590881",
+    "project_id": "hopegamings",
+    "storage_bucket": "hopegamings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355173590881:android:736a25a2dd03b8a5d20720",
+        "android_client_info": {
+          "package_name": "com.foundercodes.colorprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355173590881-4mi60a4i8b1lmlm1di6ffav5lk6o7vij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1SJb07sYVZdGIphRkSmkNMI6EsS6Aek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355173590881-4mi60a4i8b1lmlm1di6ffav5lk6o7vij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
